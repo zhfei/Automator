@@ -1,0 +1,2 @@
+# Automator
+Mac自动化器，通过Mac上的Automator工具创建常用批量处理工具
